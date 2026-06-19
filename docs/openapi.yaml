@@ -8,6 +8,8 @@ info:
 servers:
   - url: http://localhost:3000
     description: Servidor local
+  - url: https://proyecto-final-certi-backend-2026-grupo-0.onrender.com
+    description: Servidor en Render
 
 paths:
   /api/students:
